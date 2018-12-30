@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # netplace_vue
 
 ## Project setup
